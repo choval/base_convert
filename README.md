@@ -94,3 +94,7 @@ echo BaseConvert::from('bmm', $base)->to(2);
 // 1111101000
 ```
 
+## License
+
+MIT, see LICENSE
+
