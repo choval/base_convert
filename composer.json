@@ -1,5 +1,5 @@
 {
-    "name": "choval/baseconv",
+    "name": "choval/base_convert",
     "description": "A base convert functino for converting extra large numbers from one base to another",
     "type": "library",
     "license": "MIT",
